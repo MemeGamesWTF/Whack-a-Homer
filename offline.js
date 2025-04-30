@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1746012619,
+	"version": 1746014402,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,8 @@
 		"media/hammer 2.ogg",
 		"media/game over.m4a",
 		"media/game over.ogg",
+		"media/hammer 1.m4a",
+		"media/hammer 1.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
