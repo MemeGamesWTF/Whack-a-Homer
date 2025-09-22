@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< HEAD
 	"version": 1749031705,
+=======
+	"version": 1746015069,
+>>>>>>> parent of d6ed5c6 (audio)
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,7 +21,6 @@
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
 		"images/sprite12-sheet0.png",
-		"images/sprite12-sheet1.png",
 		"images/sprite13-sheet0.png",
 		"images/sprite14-sheet0.png",
 		"images/sprite14-sheet1.png",
@@ -28,15 +31,12 @@
 		"images/sprite19-sheet0.png",
 		"images/particles.png",
 		"images/sprite20-sheet0.png",
-		"images/sprite21-sheet0.png",
 		"images/spritefont.png",
 		"images/sprite23-sheet0.png",
 		"images/sprite23-sheet1.png",
 		"images/sprite24-sheet0.png",
 		"images/sprite25-sheet0.png",
 		"images/sprite26-sheet0.png",
-		"images/sprite27-sheet0.png",
-		"images/sprite28-sheet0.png",
 		"media/whack a homer - bgm.m4a",
 		"media/whack a homer - bgm.ogg",
 		"media/hammer 2.m4a",
@@ -47,8 +47,6 @@
 		"media/hammer 1.ogg",
 		"media/audiomass-output.m4a",
 		"media/audiomass-output.ogg",
-		"media/wrap.m4a",
-		"media/wrap.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
